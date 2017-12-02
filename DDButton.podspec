@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'DDButton'
-  spec.version      = '0.0.2'
+  spec.version      = '0.0.3'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/dqw18037/DDButton'
   spec.authors      = { 'dqw' => 'dqwdlut@gmail.com' }
